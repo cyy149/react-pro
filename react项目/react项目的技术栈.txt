@@ -1,0 +1,2 @@
+vue技术栈：vue.js + vue router + vuex + es6 + webpack + axios + 跨域
+react技术栈：react.js + react router + redux + es6 + webpack + fetch/axios + 跨域edux
